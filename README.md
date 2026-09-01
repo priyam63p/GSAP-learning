@@ -7,7 +7,7 @@ Welcome to my GSAP (GreenSock Animation Platform) learning repository. I started
 The repository is organized chronologically by lectures and concepts to document my progression:
 
 *   **`Lec_1/`**: Introduction to GSAP, basic tweens (`gsap.to()`, `gsap.from()`), and gsap.timeline().
-*  * **`Lec_2/`**: ScrollTrigger - used to animate elements on the basis of scrolling.
+*   **`Lec_2/`**: ScrollTrigger - used to animate elements on the basis of scrolling.
   * **Properties of ScrollTrigger:**
     * `trigger`: Select the element you want to trigger.
     * `scroller`: Body most of the time.
