@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(2, 0, 0);
+}
+
+#string {
+  height: 200px;
+  width: 100%;
+  /* background-color: rebeccapurple; */
+}
+/* svg{
+    background-color: rebeccapurple; 
+    background-color: crimson; 
+} */
