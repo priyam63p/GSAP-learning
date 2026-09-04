@@ -32,3 +32,4 @@ The repository is organized chronologically by lectures and concepts to document
     * `attr: {key: value}`: Used to manipulate attributes of an HTML element. It contains a value as an object in which the key is the attribute itself and the value is the new value of the attribute.
     * `ease`: Used to provide easing to an element. There are multiple predefined easing functions you can check out on the GSAP official website.
 * *   **`Lec_4/`**: Custom cursor animation
+* *   **`Lec_5/`**: Timeline animation with GSAP
