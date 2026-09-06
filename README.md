@@ -33,3 +33,4 @@ The repository is organized chronologically by lectures and concepts to document
     * `ease`: Used to provide easing to an element. There are multiple predefined easing functions you can check out on the GSAP official website.
 * *   **`Lec_4/`**: Custom cursor animation
 * *   **`Lec_5/`**: Timeline animation with GSAP
+* *   **`Lec_6/`**: Text animation with GSAP
