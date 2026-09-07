@@ -34,3 +34,4 @@ The repository is organized chronologically by lectures and concepts to document
 * *   **`Lec_4/`**: Custom cursor animation
 * *   **`Lec_5/`**: Timeline animation with GSAP
 * *   **`Lec_6/`**: Text animation with GSAP
+* *   **`Lec_7/`**: Scrolling Text animation with GSAP  
